@@ -1,6 +1,7 @@
 # Create an empty list to store the vehicles in the garage
 garage = []
 
+# Commit Test
 # Define a base class for a Vehicle
 class Vehicle:
 
